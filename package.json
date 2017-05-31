@@ -1,0 +1,25 @@
+{
+  "name": "item.15(1)",
+  "version": "0.0.1",
+  "description": "Create teplate on pug",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DimaNovik",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect-multi": "^1.0.8",
+    "gulp-copy": "^1.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2"
+  },
+  "dependencies": {
+    "image-min": "^0.3.2"
+  }
+}
